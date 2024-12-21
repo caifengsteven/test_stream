@@ -6,10 +6,10 @@ import streamlit as st
 ## It is popular because it enables rapid prototyping and deployment of web-based dashboards and applications without the need for extensive web development knowledge.
 
 ## Title of the Streamlit App
-st.title('Simple Streamlit App')
+st.title('CAI ZHIXIU Streamlit App')
 
 ## Adding some text description
-st.write("Hello, this is a simple Streamlit application!")
+st.write("Hello, this is a my first Streamlit application!")
 
 ## A number input box for user interaction
 user_input = st.number_input('Enter a number:', value=0)
